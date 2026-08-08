@@ -21,7 +21,7 @@ Created 6 Pivot Tables covering:
 
 ### 3. Dashboard
 An interactive dashboard featuring:
-- KPIs: Total Revenue, Total Units Sold, Average Price per Unit  
+-# KPIs: Total Revenue, Total Units Sold, Average Price per Unit  
 - Slicers: Retailer, Region/State, Beverage Brand, Month  
 - Charts: Line Chart, Bar Chart, Doughnut Chart, Column Chart, 3D Clustered Column Chart
 - <a href="https://github.com/NafizNewaz/Beverage_Sales_Performance_Excel/blob/main/Beverage%20Sales%20Performance%20Dashboard.png">Dashboard</a> view
